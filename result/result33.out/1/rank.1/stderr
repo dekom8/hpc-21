@@ -1,0 +1,6 @@
+[s8.cluster.univ.kiev.ua:29142][coll_ml_mca.c:147:get_default_hca] COLL-ML Unable to get list of available IB devices (ibv_get_device_list failed)
+[s8.cluster.univ.kiev.ua:29142][coll_ml_mca.c:233:set_hcoll_device] COLL-ML You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x MXM_RDMA_PORTS=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[s8.cluster.univ.kiev.ua:29142] Error: coll_hcoll_module.c:311 - mca_coll_hcoll_comm_query() Hcol library init failed

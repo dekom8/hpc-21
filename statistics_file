@@ -1,0 +1,82 @@
+total_s1 66
+s1.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s1.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s1.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s1.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s2 54
+s2.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s2.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s2.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s2.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s3 34
+s3.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s3.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s3.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s3.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s4 18
+s4.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s4.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s4.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s4.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s5 0
+s5.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s5.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s5.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s5.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s6 28
+s6.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s6.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s6.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s6.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s7 92
+s7.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s7.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s7.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s7.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s8 86
+s8.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s8.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s8.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s8.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s9 0
+total_s10 2
+total_s1 66
+s1.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s1.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s1.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s1.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s2 54
+s2.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s2.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s2.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s2.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s3 34
+s3.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s3.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s3.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s3.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s4 18
+s4.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s4.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s4.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s4.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s5 0
+s5.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s5.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s5.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s5.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s6 28
+s6.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s6.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s6.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s6.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s7 92
+s7.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s7.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s7.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s7.cluster.univ.kiev.ua: Level 3 cache size = 15360K
+total_s8 86
+s8.cluster.univ.kiev.ua: Level 1 icache size = 32K
+s8.cluster.univ.kiev.ua: Level 1 dcache size = 32K
+s8.cluster.univ.kiev.ua: Level 2 cache size = 256K
+s8.cluster.univ.kiev.ua: Level 3 cache size = 15360K

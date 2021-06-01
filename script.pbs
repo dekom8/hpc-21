@@ -1,0 +1,25 @@
+#!/bin/bash
+ 
+#PBS -l nodes=2:ppn=2 
+#PBS -l walltime=0:02:00
+#PBS -t 1-100
+ 
+#PBS -o Sosnov.o.${PBS_JOBID}_Lab2
+#PBS -e Sosnov.e.${PBS_JOBID}_Lab2
+#PBS -N Sosnov_Lab2
+
+cd $PBS_O_WORKDIR
+
+nodes=`cat $PBS_NODEFILE | uniq`
+
+for node in $nodes
+do
+	echo "$node" >> ./data/hostfile${PBS_ARRAYID}
+	ml icc
+	ml openmpi
+	mpiexec -N 1 -H $node ./mpi_cache >> result_cache
+done
+ml icc
+ml openmpi
+mpiexec -N 2 -hostfile ./data/hostfile${PBS_ARRAYID} -output-filename ./result/result${PBS_ARRAYID}.out ./hello
+
